@@ -1,6 +1,4 @@
-Sure, here's the updated README.md:
 
-```markdown
 # Face Recognition using OpenCV
 
 This project utilizes OpenCV for performing face recognition using deep learning techniques. It employs the Facenet model for face detection and recognition.
@@ -50,6 +48,3 @@ cd Face-Recognition-OpenCV
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can copy and paste this content into your README.md file in your GitHub repository. Let me know if you need further assistance!
